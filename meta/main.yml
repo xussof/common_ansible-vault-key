@@ -3,4 +3,4 @@ dependencies:
   - src: https://github.com/xussof/common_set-vars-all
     scm: git
     version: master
-    name: common_set-vars-all
+    name: xussof.common_set-vars-all
