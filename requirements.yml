@@ -1,4 +1,4 @@
-- src: git@github.com:xussof/common_set-vars-all
+- src: git@github.com:xussof/common_ansible-vault-key
   scm: git
   version: master
-  name: xussof.common_set-vars-all
+  name: common_ansible-vault-key
